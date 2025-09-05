@@ -1,5 +1,6 @@
 # Wtsp_Cloner
-this repo is made for whatsapp cloning . enjoy it... ask for cmds.
+this repo is made for whatsapp cloning . enjoy it... ask for username and password 🔑 
+
 # cmds
 
 git clone git clone https://github.com/yasirkhaan7/YsrWhatsApp.git.

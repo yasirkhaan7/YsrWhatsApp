@@ -3,7 +3,7 @@ this repo is made for whatsapp cloning . enjoy it... ask for username and passwo
 
 # cmds
 
-git clone git clone https://github.com/yasirkhaan7/YsrWhatsApp.git.
+git clone https://github.com/yasirkhaan7/YsrWhatsApp.git.
 
 ( contact me for username and password 🔑 , this is paid tool ) .
 
